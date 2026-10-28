@@ -1,0 +1,7 @@
+[package]
+name = "halloween_circuit"
+type = "bin"
+authors = ["sylvainlamothe"]
+compiler_version = ">=0.30.0"
+
+[dependencies]
